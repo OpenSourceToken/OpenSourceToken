@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**OpenSourceToken** is a ✨ _practical project_ ✨ dedicated to obtaining feedback through participating in bounty competitions.
+**OpenSourceToken** is a ✨ _Freelance Organization_ ✨ dedicated to obtaining feedback through participating in bounty competitions.
 
 - 🔭 We’re currently working in various hacking competitions.
 - 🌱 We’re currently learning various information technologies.
